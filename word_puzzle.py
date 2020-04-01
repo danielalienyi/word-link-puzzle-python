@@ -1,11 +1,4 @@
 
-# coding: utf-8
-
-# In[1]:
-
-
-import random
-
 def getWords():
     # Opens a file named 'words.txt' and extracts all the words in it as list
     # 'words.txt' contains 50000+ dictionary words
