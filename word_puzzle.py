@@ -60,9 +60,5 @@ def solveWordCrossPuzzle(possibleChars, *wordsLength):
 
     
 
-
-# In[2]:
-
-
 solveWordCrossPuzzle("pile",3,3,3,4)
 
